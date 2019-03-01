@@ -73,3 +73,5 @@ I often make small changes to documentation, to the demo site, or to the general
 ... Many small changes because the site was in its infancy
 
 **2015-03-12** Beautiful Jekyll version 0.0000001 is released!
+
+**2019-03-01** Mason Forks the template and publishes a skeleton site!
