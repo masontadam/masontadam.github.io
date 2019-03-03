@@ -11,9 +11,9 @@ My personal blog based on the [beautiful jekyll](https://github.com/daattali/bea
     ```
 
 2. Once the container is built, all we need to do to use the container again in the future is run the following commands.
-```bash
-docker start <container-name>
-docker stop <container-name>
-```
+    ```bash
+    docker start <container-name>
+    docker stop <container-name>
+    ```
 
 **Note:** Changes to the `_config.yml` file will require a restart of the container using the commands in step 2. All other changes will be rendered dynamically within a few seconds of writing to the source file.
