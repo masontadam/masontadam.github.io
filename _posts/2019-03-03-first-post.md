@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	 First Post
+title:   First Post
 subtitle: How I made this blog site
 ---
 
@@ -13,14 +13,10 @@ The inital setup took about 5 minutes. Adding content and customizing the webpag
 # Github Pages
 
 <center>
-	<iframe 
-		width="600"
-		height="350"
-		src="http://www.youtube.com/embed/2MsN8gpT6jY"
-		frameborder="0"
-		allowfullscreen="">
-	</iframe>
+    <iframe width="600" height="350" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+    </iframe>
 </center>
+
 
 ***To summarize in case you didn't watch the video:*** Github pages will host any web content you place a Github repository that follows the naming convention: `<username>.github.io`. 
 
