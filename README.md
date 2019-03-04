@@ -17,3 +17,9 @@ My personal blog based on the [beautiful jekyll](https://github.com/daattali/bea
     ```
 
 **Note:** Changes to the `_config.yml` file will require a restart of the container using the commands in step 2. All other changes will be rendered dynamically within a few seconds of writing to the source file.
+
+## AWS Connect
+
+`ssh -i "masontadam.pem" ubuntu@ec2-18-223-117-131.us-east-2.compute.amazonaws.com`
+
+
