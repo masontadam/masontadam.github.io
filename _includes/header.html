@@ -60,6 +60,15 @@
 			{% endif %}
 		  {% endif %}
 		  
+		  {% if page.post-img %}
+		  <div class="avatar-container">
+		    <div class="avatar-img-border">
+		      <a href="{{ site.url }}">
+		        <img class="avatar-img" src="{{ page.post-img | prepend: site.baseurl | replace: '//', '/' }}" />
+			  </a>
+		    </div>
+		  </div>
+
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
